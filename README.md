@@ -1,6 +1,6 @@
 # gemini-ocr
 
-Batch OCR tool that uses Google Gemini to extract text and math notation from images. Tkinter GUI with a Windows 97 aesthetic.
+Batch OCR tool that uses Google Gemini to extract text and math notation from images.
 
 Features:
 - Select a parent folder and it processes all image subfolders
